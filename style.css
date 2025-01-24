@@ -96,6 +96,12 @@ li a {
   padding: 8px 180px 8px 50px;
 }
 
+li a:hover {
+  background-color: white;
+  border-radius: 5px;
+  color: black;
+}
+
 nav a {
   text-decoration: none;
 }
